@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": "be7e6f47-83e1-45c4-9506-d1d908f08ecb",
+      "firstName": "Jhon",
+      "lastName": "Jhon",
+      "email": "jhon@gmail.com",
+      "password": "$2b$10$XeRZ4FTAPSOY1EuYSjddLuN08tjnijzQCbXIBGrDTq58HXDzPSx9O",
+      "role": "customer"
+    },
+    {
+      "id": "4688c4f7-f698-4b0d-ab0d-040cafc3dc51",
+      "firstName": "Jhon2",
+      "lastName": "Jhon2",
+      "email": "jhon2@gmail.com",
+      "password": "$2b$10$CEqFWE.dH0z2x8v7DnbxhOSY0fpXfGr3DJ4cTZatIylK0b1m8WnVO",
+      "role": "customer"
+    },
+    {
+      "id": "4a646f41-f9b6-46e9-a5ea-a63628f2fc36",
+      "password": "$2b$10$XyJ8t.MZjUSmkF01AzMOneMOMSQ/q0yfiSAcnJPUYaX11xE8q1BAm",
+      "firstName": "Jone",
+      "lastName": "Doe",
+      "email": "jonedoe@gmail.com",
+      "role": "customer"
+    },
+    {
+      "id": "4a646f39-f9b6-46e9-a5ea-a63628f2fc36",
+      "firstName": "Jone2",
+      "lastName": "Doe1",
+      "email": "jonedoe222@gmail.com",
+      "password": "$2b$10$doVfjmDMXiDchHE0KiLeh.Gd78GxyrfpRhg5Z3eEvgWHHC7yuU3DO",
+      "role": "admin"
+    },
+    {
+      "id": "4a646f39-f9b6-46e9-a5ea-a63628f2fc36",
+      "firstName": "Jone2",
+      "lastName": "Doe1",
+      "email": "jonedoes2@gmail.com",
+      "password": "$2b$10$doVfjmDMXiDchHE0KiLeh.Gd78GxyrfpRhg5Z3eEvgWHHC7yuU3DO",
+      "role": "superAdmin"
+    },
+    {
+      "id": "29740cbd-89a2-49a2-a6f7-d517c04186f4",
+      "password": "$2b$10$OIoiCZvQfxvhDkHXAjHoluwQe7UcXynVmXPCx70XDaFQ7qcjAK/cW",
+      "firstName": "Jone2",
+      "lastName": "Doe1",
+      "email": "jonedoesa221@gmail.com",
+      "role": "admin"
+    },
+    {
+      "id": "29043cbd-89a2-49a2-a6f7-d517c04186f4",
+      "password": "$2b$10$OIoiCZvQfxvhDkHXAjHoluwQe7UcXynVmXPCx70XDaFQ7qcjAK/cW",
+      "firstName": "Jone2",
+      "lastName": "Doe1",
+      "email": "jonedoesa22@gmail.com",
+      "role": "superAdmin"
+    }
+  ],
+  "authors": [
+    {
+      "id": "1f4c9a0d-eefe-44a8-a847-4d1b5d439dab",
+      "name": "Ali"
+    },
+    {
+      "id": "fe9ca7a8-3890-4721-b703-e634b6082d7c",
+      "name": "Sandr"
+    },
+    {
+      "id": "89cdcbbc-96fa-4ebd-aa8c-db3381f4e0bf",
+      "name": "Sandr"
+    }
+  ],
+  "books": [
+    {
+      "id": "71f03862-7cd2-4f11-8acc-587fe273c915",
+      "title": "Assi book",
+      "authorId": "1f4c9a0d-eefe-44a8-a847-4d1b5d439dab",
+      "category": "badiy"
+    },
+    {
+      "id": "72f03862-7cd2-4f11-8acc-587fe273c915",
+      "title": "Assi book",
+      "authorId": "1f4c9a0d-eefe-44a8-a847-4d1b5d439dab",
+      "category": "badiy"
+    },
+    {
+      "id": "73f03862-7cd2-4f11-8acc-587fe273c915",
+      "title": "sariq devni minib",
+      "authorId": "1f4c9a0d-eefe-44a8-a847-4d1b5d439dab",
+      "category": "jjjj"
+    }
+  ]
+}
